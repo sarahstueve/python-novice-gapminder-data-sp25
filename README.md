@@ -4,5 +4,6 @@
 
 ---
 
-1. Using Shell
-2. Using Git and GitHub
+1. Shell
+2. Git and GitHub
+3. Python
